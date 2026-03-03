@@ -8,7 +8,7 @@ your keyboard lighting using OpenRGB SDK.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.9+
 - OpenRGB installed
@@ -17,7 +17,7 @@ your keyboard lighting using OpenRGB SDK.
 
 ---
 
-## 📦 Install Dependencies
+## Install Dependencies
 
 ```
 pip install openrgb-python mss numpy
@@ -25,7 +25,7 @@ pip install openrgb-python mss numpy
 
 ---
 
-## 🔌 Setup Instructions
+## Setup Instructions
 
 1. Install OpenRGB  
 2. Open OpenRGB  
@@ -39,7 +39,7 @@ python rgb.py
 
 ---
 
-## 🎛 Features
+## Features
 
 - Smart screen color detection
 - Gamma correction for accurate LED color output
@@ -49,13 +49,13 @@ python rgb.py
 
 ---
 
-## 🛑 Stop
+## Stop
 
 Press Ctrl + C to stop syncing.
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - Script assumes keyboard is the first detected device.
 - Modify monitor capture region if using different resolution.
@@ -63,6 +63,6 @@ Press Ctrl + C to stop syncing.
 
 ---
 
-## 📜 License
+## License
 
 Private project. Modify and use as needed.
