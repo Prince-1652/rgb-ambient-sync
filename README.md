@@ -19,7 +19,9 @@ your keyboard lighting using OpenRGB SDK.
 
 ## 📦 Install Dependencies
 
+```
 pip install openrgb-python mss numpy
+```
 
 ---
 
@@ -31,7 +33,9 @@ pip install openrgb-python mss numpy
 4. Go to SDK Server → Start Server  
 5. Run:
 
+```
 python rgb.py
+```
 
 ---
 
