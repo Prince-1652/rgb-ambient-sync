@@ -1,6 +1,6 @@
 # RGB Ambient Display Sync (OpenRGB)
 
-This Python script syncs your RGB keyboard color with your screen in real-time.
+This Python script syncs your RGB keyboard color with your screen in real-time
 
 It captures the active display area, calculates a smart average color,
 applies gamma correction for deep saturation, and smoothly transitions
