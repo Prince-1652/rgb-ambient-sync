@@ -58,7 +58,7 @@ Press Ctrl + C to stop syncing.
 ## Notes
 
 - Script assumes keyboard is the first detected device.
-- Modify monitor capture region if using different resolution.
+- Modify monitor capture region if using different resolution
 - Make sure OpenRGB SDK server is running before executing
 
 ---
